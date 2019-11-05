@@ -1,3 +1,7 @@
+If you've somehow stumbled across this version in some half-baked attempt at getting your game to work, this is intentionally kinda borked to try and get it functioning with Max Payne through Proton on Linux. If you think you can do that, feel free to add a pull request.
+
+--------------------------------------------------------------------------------------------------------------
+
 # Max Payne's grphmfc jpg patcher
 
 This is mainly a "silencer" and a passthrough for the AMD Ryzen 3rd gen people.\
