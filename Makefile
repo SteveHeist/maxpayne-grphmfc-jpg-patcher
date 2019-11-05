@@ -1,5 +1,5 @@
-GCC = i686-w64-mingw32-gcc
-STRIP = i686-w64-mingw32-strip
+GCC = gcc
+STRIP = strip
 NASM = nasm
 PYTHON = python3
 CFLAGS = -fno-exceptions -nostartfiles -nostdlib
