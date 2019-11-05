@@ -1,5 +1,7 @@
 If you've somehow stumbled across this version in some half-baked attempt at getting your game to work, this is intentionally kinda borked to try and get it functioning with Max Payne through Proton on Linux. If you think you can do that, feel free to add a pull request.
 
+Otherwise, just go here: https://github.com/luigoalma/maxpayne-grphmfc-jpg-patcher
+
 --------------------------------------------------------------------------------------------------------------
 
 # Max Payne's grphmfc jpg patcher
